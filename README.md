@@ -37,6 +37,8 @@ Web Development, Linux Programming, Programming Languages and Software Developme
 <details>
 <summary>
 :es: Español
+&nbsp;
+:cn: 中文
 </summary>
 
 ---
@@ -59,6 +61,25 @@ Desarrollo Web, Programación Linux, Lenguajes de Programación y Desarrollo de 
 
 #### :handshake: Mucho gusto.
 
+---
+
+### :cn: 中文
+
+#### :wave: 你好，我叫毗努伊勒。
+
+我是计算机科学研究生和 OSS 日语翻译。
+
+。。。
+
+<!-- #### :smiley:
+网页开发，Linux 程序设计，程序设计语言和软件开发，人工智能。
+
+#### :writing_hand:
+- [GNOME 日语翻译团队][]
+- [Git 日语翻译团队][]
+
+#### :handshake: -->
+
 </details>
 
 <!-- 日本語 -->
@@ -72,3 +93,7 @@ Desarrollo Web, Programación Linux, Lenguajes de Programación y Desarrollo de 
 <!-- Español -->
 [Equipo de Traducción Japonés GNOME]: https://l10n.gnome.org/users/vargaspeniel/
 [Equipo de Traducción Japonés Git]: https://github.com/vargaspeniel/git-l10n-ja
+
+<!-- 中文 -->
+<!-- [GNOME 日语翻译团队]: https://l10n.gnome.org/users/vargaspeniel/
+[Git 日语翻译团队]: https://github.com/vargaspeniel/git-l10n-ja -->
