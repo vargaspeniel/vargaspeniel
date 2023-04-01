@@ -50,8 +50,7 @@ Japonés de software de código abierto. En busca de oportunidades
 de empleo a tiempo completo como programador en Japón.
 
 #### :smiley: Campos de Interés
-
-Desarrollo Web, Programación Linux, Lenguajes de Programación y Desarrollo de Software, Inteligencia Artificial.
+Desarrollo de Software, Lenguajes de Programación, Desarrollo de Sistemas Operativos, Desarrollo de Sistemas, Programación Linux, Inteligencia Artificial, Desarrollo Web.
 
 #### :writing_hand: Contribuyendo a los siguientes proyectos:
 - [Equipo de Traducción Japonés GNOME][]
