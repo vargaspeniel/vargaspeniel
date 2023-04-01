@@ -24,8 +24,7 @@ A Computer Science graduate and open source software Japanese translator.
 Looking for full-time employment opportunities as a programmer in Japan.
 
 #### :smiley: Fields of Interest
-
-Web Development, Linux Programming, Programming Languages and Software Development, Artificial Intelligence.
+Software Development, Programming Languages, OS Development, System Development, Linux Programming, Artificial Intelligence, Web Development.
 
 #### :writing_hand: Contributing to the following projects:
 - [GNOME Japanese Translation Team][]
